@@ -57,14 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fb92a20d.js",
-<<<<<<< HEAD
     "static/js/2.1c469e0f.chunk.js",
     "static/css/main.10dae646.chunk.css",
     "static/js/main.bf0e5355.chunk.js"
-=======
-    "static/js/2.c2ebae8c.chunk.js",
-    "static/css/main.10dae646.chunk.css",
-    "static/js/main.b6ee9850.chunk.js"
->>>>>>> portfolio work secction updated
   ]
 }
